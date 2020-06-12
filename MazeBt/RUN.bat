@@ -1,0 +1,1 @@
+MazeBt input.txt  path.txt

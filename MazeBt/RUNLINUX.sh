@@ -1,0 +1,1 @@
+python MazeBt.py input.txt path.txt
