@@ -28,7 +28,7 @@ This Read me file consits of following topics:
 - How to run MazeSolver In Linux Operating System.
 - My Approach to Solve the problem.
 - Code Explanation (Step by Step).
-- Modules used in this Project.
+- Technology used in this Project.
 - My Final Words.
 ***
 
@@ -91,10 +91,12 @@ step1-: first from the driver function through the arparse command line the inpu
 
 - step5: last step is the appending all solvedMaze value in to the `File2` text file in string formate.
 ___
-## Modules used in this Project.
+## Technology used in this Project.
 ***
-- argparse - This is the python module for taking input in command line interface 
-- filesystem(read,append,write)- with this function we read the input file, append and write the o/p string formate in the output path text File .
+- `argparse` - This is the python module for taking input in command line interface 
+- `filesystem`(read,append,write)- with this function we read the input file, append and write the o/p string formate in the output path text File .
+- `pyinstaller` used for converting the python file into exe file .
+- `nsis ` software for making user friendly exe file for easy installation for users.
 ___
 
 ## - My Final Words.
